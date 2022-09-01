@@ -1,10 +1,14 @@
 import UIKit
 
+//Name: Mackenzie Bishop
+//Class: Mobile Computing - iOS Sec 01
+
 /*
 When you open this file  in Xcode, it is normal that you see errors in the source code.
  */
 //**************** QUESTION 1 ****************
 // 1.a) Declare two variables called  distance1 and distance2 of type Double and assign your own values to them and also add 2 declared variables and print output.
+    
 
 // 1.b) Declare a constant called  maxWeight of type Int and assign with a value of 130, using type annotation
 
